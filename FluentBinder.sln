@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FluentBinder NET45", "FluentBinder NET45\FluentBinder NET45.csproj", "{E41546E6-84BB-4B58-B478-0C9FA02E518D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FluentBinder NET46", "FluentBinder NET46\FluentBinder NET46.csproj", "{69AE8688-679E-4D2F-84A8-ED8CC0407E9B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FluentBinder PCL NET45", "FluentBinder PCL NET45\FluentBinder PCL NET45.csproj", "{5B2236CA-35F0-4ECC-BC0F-42231F16CEB7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FluentBinder PCL NET46", "FluentBinder PCL NET46\FluentBinder PCL NET46.csproj", "{103E5065-C4EA-40B3-970D-A48AA531EC7F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FluentBinder.Test NET40", "FluentBinder.Test NET40\FluentBinder.Test NET40.csproj", "{66E5F24E-71E4-46FE-8060-F1BFA2E535D4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FluentBinder NET40", "FluentBinder NET40\FluentBinder NET40.csproj", "{C04BFA1A-69B2-4291-9045-97ADD4B8EEB9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E41546E6-84BB-4B58-B478-0C9FA02E518D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E41546E6-84BB-4B58-B478-0C9FA02E518D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E41546E6-84BB-4B58-B478-0C9FA02E518D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E41546E6-84BB-4B58-B478-0C9FA02E518D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69AE8688-679E-4D2F-84A8-ED8CC0407E9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69AE8688-679E-4D2F-84A8-ED8CC0407E9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69AE8688-679E-4D2F-84A8-ED8CC0407E9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69AE8688-679E-4D2F-84A8-ED8CC0407E9B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B2236CA-35F0-4ECC-BC0F-42231F16CEB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B2236CA-35F0-4ECC-BC0F-42231F16CEB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B2236CA-35F0-4ECC-BC0F-42231F16CEB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B2236CA-35F0-4ECC-BC0F-42231F16CEB7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{103E5065-C4EA-40B3-970D-A48AA531EC7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{103E5065-C4EA-40B3-970D-A48AA531EC7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{103E5065-C4EA-40B3-970D-A48AA531EC7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{103E5065-C4EA-40B3-970D-A48AA531EC7F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66E5F24E-71E4-46FE-8060-F1BFA2E535D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66E5F24E-71E4-46FE-8060-F1BFA2E535D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66E5F24E-71E4-46FE-8060-F1BFA2E535D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66E5F24E-71E4-46FE-8060-F1BFA2E535D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C04BFA1A-69B2-4291-9045-97ADD4B8EEB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C04BFA1A-69B2-4291-9045-97ADD4B8EEB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C04BFA1A-69B2-4291-9045-97ADD4B8EEB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C04BFA1A-69B2-4291-9045-97ADD4B8EEB9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
